@@ -1,1 +1,1 @@
-Este app
+Este app é para

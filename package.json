@@ -1,0 +1,20 @@
+{
+  "name": "restify-app",
+  "version": "1.0.0",
+  "description": "Este app é para",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monicakarine/restify-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monicakarine/restify-app/issues"
+  },
+  "homepage": "https://github.com/monicakarine/restify-app#readme"
+}
